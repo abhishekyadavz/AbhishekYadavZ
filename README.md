@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekYadavZ&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ&theme=dark)](https://git.io/streak-stats)
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekYadavZ&show_icons=true)
 
 
 

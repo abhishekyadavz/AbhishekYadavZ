@@ -1,5 +1,5 @@
 # Hi, This is Abhishek 👋
-
+![](https://komarev.com/ghpvc/?username=AbhishekYadavZ&color=brightgreen)
 <!--
 **AbhishekYadavZ/AbhishekYadavZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

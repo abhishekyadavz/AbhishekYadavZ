@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### Abhishek's GitHub stats
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekYadavZ&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ&theme=dark)](https://git.io/streak-stats)
 
 ----
 
@@ -27,8 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### Github Streaks
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ&theme=dark)](https://git.io/streak-stats)
 
 ---
 

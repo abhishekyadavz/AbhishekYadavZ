@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### Github Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ)](https://git.io/streak-stats)
 
 ---
 

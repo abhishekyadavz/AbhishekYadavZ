@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekYadavZ&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekYadavZ&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 ### Abhishek's GitHub stats
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekYadavZ&show_icons=true)

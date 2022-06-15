@@ -25,12 +25,5 @@ Here are some ideas to get you started:
 
 ---
 
-### Github Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekYadavZ)](https://git.io/streak-stats)
-
----
-
 ### Abhishek's github activity graph
 [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekYadavZ&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
